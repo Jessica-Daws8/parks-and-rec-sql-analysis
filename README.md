@@ -2,13 +2,19 @@
 
 This project analyzes employee salary ranges, job titles, and department data using SQL.
 
+## Questions Explored
+- What are the minimum and maximum salaries by job title?
+- What is the average salary by department?
+- How are employees distributed by gender and department?
+- How mamy employees work in each department?
+
 ## Files
-- SQL queries
-- Insights report
+- 'avg_salary_by_department.sql'
+- 'avg_salary_by_gender.sql'
+- 'salary_ranges_by_job_title.sql'
+- 'gender_distribution_by_department.sql'
+- 'employees_per_department.sql'
+- 'parks_and_rec_insights.md'
 
 ## Tools
--SQL[avg salary by department.sql](https://github.com/user-attachments/files/25692584/avg.salary.by.department.sql)
-[avg salary by gender.sql](https://github.com/user-attachments/files/25692585/avg.salary.by.gender.sql)
-[salary ranges by job title.sql](https://github.com/user-attachments/files/25692588/salary.ranges.by.job.title.sql)
-[gender distribution by department.sql](https://github.com/user-attachments/files/25692587/gender.distribution.by.department.sql)
-[employees per department.sql](https://github.com/user-attachments/files/25692586/employees.per.department.sql)
+- SQL (MySQL)
